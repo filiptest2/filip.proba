@@ -8,7 +8,8 @@ void main(void) {
   
 
 
-	EnableInterrupts;
+	void InitSCI(void);
+	void InitPorts(void);
 
 
   for(;;) {
