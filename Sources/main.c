@@ -7,7 +7,7 @@ void main(void) {
   /* put your own code here */
   
 
-
+  //function declarations
 	void InitSCI(void);
 	void InitPorts(void);
 
